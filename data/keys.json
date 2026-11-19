@@ -1,0 +1,35 @@
+{
+  "vg_a929c0d26e91f6961591b327": {
+    "id": "web",
+    "name": "web",
+    "createdAt": 1795038386463,
+    "lastUsedAt": 1795102031689,
+    "disabled": true
+  },
+  "vg_0a98c5dab1d36f92bdf37381": {
+    "id": "4c2f1916",
+    "name": "test-bot",
+    "createdAt": 1795038404218,
+    "lastUsedAt": null,
+    "disabled": true
+  },
+  "vg_5994500be1fa46afe4366edc": {
+    "id": "650502a7",
+    "name": "test-bot",
+    "createdAt": 1795038426775,
+    "lastUsedAt": null,
+    "disabled": true
+  },
+  "vg_5f02a721c9bd0bf67d841d38": {
+    "id": "c522938b",
+    "name": "reload-test",
+    "createdAt": 1795102031697,
+    "lastUsedAt": null
+  },
+  "vg_34bb5f09ccfd3ed3c3aee4a4": {
+    "id": "web",
+    "name": "web",
+    "createdAt": 1795102940060,
+    "lastUsedAt": null
+  }
+}
